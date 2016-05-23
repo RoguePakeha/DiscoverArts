@@ -28,3 +28,7 @@
 a {
 	color : black;
 }
+
+#quantity {
+    display : none;
+}
