@@ -1,0 +1,30 @@
+#spree-header .nav a {
+    color: black;
+}
+
+#spree-header #header {
+    background: rgba(34, 34, 34, 0.1);
+    padding: 20px 0;
+}
+
+#spree-header #logo img {
+    width: 70%;
+    height : auto;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #adaaa5;
+    border-color: #adaaa5;
+}
+
+
+.btn-success:hover{
+    color: #fff;
+    background-color: #85827e;
+    border-color: #85827E;
+}
+
+a {
+	color : black;
+}
