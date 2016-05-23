@@ -1,0 +1,13 @@
+#spree-header .nav a {
+    color: black;
+}
+
+#spree-header #header {
+    background: rgba(34, 34, 34, 0.1);
+    padding: 20px 0;
+}
+
+#spree-header #logo img {
+    width: 70%;
+    height : auto;
+}
