@@ -11,3 +11,20 @@
     width: 70%;
     height : auto;
 }
+
+.btn-success {
+    color: #fff;
+    background-color: #adaaa5;
+    border-color: #adaaa5;
+}
+
+
+.btn-success:hover{
+    color: #fff;
+    background-color: #85827e;
+    border-color: #85827E;
+}
+
+a {
+	color : black;
+}
